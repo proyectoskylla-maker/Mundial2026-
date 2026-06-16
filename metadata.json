@@ -1,0 +1,6 @@
+{
+  "name": "Motor de Pronósticos Mundial 2026",
+  "description": "Motor de Pronósticos para el Mundial 2026 con modelos Massey, Colley y Pi Ratings complementados con Dixon-Coles y simulación Monte Carlo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
